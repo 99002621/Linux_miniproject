@@ -1,5 +1,3 @@
-![Valgrind](https://github.com/99002621/AmazonBooks/workflows/Valgrind/badge.svg?branch=master)
-
 # Baseball-Game
 Baseball-Game using semaphore and sharing memory(Memory map) in C.
 
