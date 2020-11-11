@@ -18,4 +18,4 @@ jobs:
     - name: maketest
       run:  make source
     - name: allout test
-      run: chmod 777 source
+      run: chmod 777 linux_mini_project/src
